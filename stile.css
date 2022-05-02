@@ -1,0 +1,59 @@
+#head
+{
+position:relative;
+left:1100px;
+text-decoration:none;
+color:black;
+font-family: Arial, Helvetica, sans-serif;
+font-size:14px;
+}
+#head:hover
+{
+text-decoration: underline;
+}
+
+.form{
+    position: relative;
+    text-align: center;
+    font-size: 45px;
+    color: dodgerblue;
+    top: 120px;
+}
+.cam_name
+{
+    width: 550px;
+    height:40px;
+    border-radius: 20px;
+    border-color:gainsboro;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.img
+{
+    position:relative;
+    text-align: center;
+    top:150px;
+}
+
+#btn1, #btn2
+{
+    width:130px;
+    height: 35px;
+    background-color:rgb(247, 247, 247);
+    border-style:none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#btn1:hover, #btn2:hover
+{
+    border-style:solid;
+    border-radius:5px;
+    border-color:gainsboro;
+}
+
+#images
+{
+top:40px;
+position: relative;
+}
